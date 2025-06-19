@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Currently learning Bug Bounty and Cybersecurity**
 
+- 🎸 Learning and practicing **acoustic guitar** 
+
 - 🔭 I’m currently working on **My linux distro and bug bounty**
 
 - 📫 How to reach me **0x0p3nM1nD@proton.me**
